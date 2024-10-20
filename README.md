@@ -4,7 +4,7 @@
 
 ⭐ Welcome to my GitHub profile! My name is Gael, but you can always call me *Vivas*. I'm a Software Engineer student at the Computer Science Faculty of the Autonomous University of Querétaro, fully proudly from Mexico. 🇲🇽
 
-👨 Continuing my father's legacy, I'm deeply involved in full-stack programming. Since 2019, I started coding in multiple languages for different purposes, such as PHP, C++, C#...
+💻  I'm deeply involved in full-stack programming. Since 2019, I started coding in multiple languages for different purposes, such as PHP, C++, C#...
 
 🐾 _I always look for really good experiences, step by step!_
 
@@ -27,7 +27,7 @@ ___
 - 🤝 **Soft Skills**:
 	- 🦜 Excelent communication
 	- 🏢 Efficiency at work
-	- 📚 Good habits at organizing
+	- 📚 Good organization
 ---
 ## 📐 Featured projects
 
@@ -40,4 +40,4 @@ I have worked on several personal projects that reflect my ability and creativit
 
 You can always contact me by [email](mailto:gaelvivas2004@gmail.com).
 
-## *"Go, step by step, but go."*
+## *"Go, Johnny go!."*
