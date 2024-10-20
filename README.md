@@ -6,8 +6,6 @@
 
 💻  I'm deeply involved in full-stack programming. Since 2019, I started coding in multiple languages for different purposes, such as PHP, C++, C#...
 
-🐾 _I always look for really good experiences, step by step!_
-
 ___
 ## 👨‍🔧 About me
 
@@ -40,4 +38,4 @@ I have worked on several personal projects that reflect my ability and creativit
 
 You can always contact me by [email](mailto:gaelvivas2004@gmail.com).
 
-## *"Go, Johnny go!."*
+## *"Go, Johnny go!"*
