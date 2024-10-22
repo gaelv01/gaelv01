@@ -2,7 +2,7 @@
 
 ## 💻 Introduction
 
-⭐ Welcome to my GitHub profile! My name is Gael, but you can always call me *Vivas*. I'm a Software Engineer student at the Computer Science Faculty of the Autonomous University of Querétaro, fully proudly from Mexico. 🇲🇽
+⭐ Welcome to my GitHub profile! My name is Gael Vivas. I'm a Software Engineer student at the Computer Science Faculty of the Autonomous University of Querétaro, fully proudly from Mexico. 🇲🇽
 
 💻  I'm deeply involved in full-stack programming. Since 2019, I started coding in multiple languages for different purposes, such as PHP, C++, C#...
 
